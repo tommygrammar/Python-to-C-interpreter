@@ -1,0 +1,3 @@
+hum = ("Hello Brother")
+printf(hum[0])
+
